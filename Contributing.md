@@ -8,3 +8,4 @@ Use `datapack`, not `DataPack` or `data pack`.
 
 - MC: Minecraft
 - DP: Datapack
+
