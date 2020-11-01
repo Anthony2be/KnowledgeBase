@@ -2,7 +2,8 @@
 
 ## Style Guide
 
-Use `datapack`, not `DataPack` or `data pack`.
+- Use `datapack`, not `DataPack` or `data pack`.
+- Use American English for consistency.
 
 ## Abbreviations
 
