@@ -4,6 +4,27 @@
 
 - Use `datapack`, not `DataPack` or `data pack`.
 - Use American English for consistency.
+- Use correct synatx highlighting in pastes. (`json` for JSON and MCMETA files, `none` for MCFUNCTION files)
+
+### Paste format
+Pastes are written in Discord's subset of markdown. 
+```markdown
+--= **Title** =-- (Tag) (Another-tag)
++ Description
+
+Body, including code snippets.
+
+(Copy and Paste Extract from Knowledge Base <https://discord.gg/xpNJdH9>)
+(Raw paste: <https://github.com/SheepCommander/KnowledgeBase/tree/main/PATH>)
+<!-- 
+  "PATH" in the above line is the path to the paste's folder in this repo. E.g:
+  FAQ/Datapacks/Adding delay
+  FAQ/Resource packs/RP Structure
+  
+  Change "Raw paste" to "Raw paste and downlaodable template" where applicable.
+-->
+
+```
 
 ## Abbreviations
 
