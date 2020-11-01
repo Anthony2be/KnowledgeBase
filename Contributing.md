@@ -39,3 +39,4 @@ These common abbreviations can be used in pastes freely.
 - Pastes: The copy-pastes in the `#faqs` channel in Discord and the `Raw paste.txt` files here.
 - Resources: Legacy name for Pastes.
 - Templates: The `Downloadable template.zip` files.
+- Watermark: The "Copy and Paste Extract from Knowledge Base" line in pastes
