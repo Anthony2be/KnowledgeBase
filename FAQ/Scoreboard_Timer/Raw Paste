@@ -13,4 +13,4 @@ scoreboard players set $Ticks Timer 0
 scoreboard players add $Seconds Timer 1```
  
 (Copy and Paste Extract from Knowledge Base <https://discord.gg/xpNJdH9>)
-(Raw Paste & Downloadable  <https://github.com/SheepCommander/KnowledgeBase/tree/main/FAQ/Scoreboard_Timer>)
+(Raw Paste & Downloadable Template <https://github.com/SheepCommander/KnowledgeBase/tree/main/FAQ/Scoreboard_Timer>)
