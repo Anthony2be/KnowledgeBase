@@ -18,8 +18,8 @@ Body, including code snippets.
 (Raw paste: <https://github.com/SheepCommander/KnowledgeBase/tree/main/PATH>)
 <!-- 
   "PATH" in the above line is the path to the paste's folder in this repo. E.g:
-  FAQ/Datapacks/Adding delay
-  FAQ/Resource packs/RP Structure
+  FAQ/Adding delay
+  FAQ/RP Structure
   
   Change "Raw paste" to "Raw paste and downlaodable template" where applicable.
 -->
