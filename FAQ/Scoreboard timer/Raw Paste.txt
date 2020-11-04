@@ -1,0 +1,24 @@
+--= **Scoreboard Timer** =-- (DP) (JE) (1.13+)
++ You literally just count up by 1, detect a score, and add to the next value.
+ 
+Here's an example:
+ 
+Setup:
+```js
+scoreboard objectives add Timer dummy
+```
+
+Looping:
+```js
+scoreboard players add $Ticks Timer 1
+execute if score $Ticks Timer matches 20.. run function namespace:second
+```
+
+`namespace:second`:
+```js
+scoreboard players set $Ticks Timer 0
+scoreboard players add $Seconds Timer 1
+```
+ 
+(Copy and Paste Extract from Knowledge Base <https://discord.gg/xpNJdH9>)
+(Raw Paste & Downloadable Template: <https://github.com/SheepCommander/KnowledgeBase/tree/main/FAQ/Scoreboard_Timer>)
