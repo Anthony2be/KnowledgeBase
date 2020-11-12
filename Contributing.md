@@ -37,8 +37,10 @@ Follow them in order from top to bottom
 > > > 📄`raw-paste.txt`
 - Copy and Paste your recreation into `raw-paste.txt`
 - Add the following watermarks to the bottom
-> `(Copy and Paste Extract from Knowledge Base: <https://discord.gg/xpNJdH9>)`
-> `(Raw Paste <https://github.com/SheepCommander/KnowledgeBase/tree/main/faq/[faq]/raw-paste.txt>)`
+```
+(Copy and Paste Extract from Knowledge Base: <https://discord.gg/xpNJdH9>)
+(Raw Paste <https://github.com/SheepCommander/KnowledgeBase/tree/main/faq/[faq]/raw-paste.txt>)
+```
 - Replace `[faq]` in the link with what you used for `[your-faq]`
 - Request review on GitHub and Discord, make requested changes, or if it's accepted react to the original FAQ with ✅
 ***
