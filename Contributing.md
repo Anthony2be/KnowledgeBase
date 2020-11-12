@@ -20,8 +20,10 @@ Follow them in order from top to bottom
 > > > 🤐`example-pack.zip`
 - Copy and Paste your recreation into `raw-paste.txt`
 - Add the following watermarks to the bottom
-> `(Copy and Paste Extract from Knowledge Base: <https://discord.gg/xpNJdH9>)`
-> `(Raw Paste & Downloadable Template: <https://github.com/SheepCommander/KnowledgeBase/tree/main/faq/[faq]>)`
+```
+(Copy and Paste Extract from Knowledge Base: <https://discord.gg/xpNJdH9>)
+(Raw Paste & Downloadable Template: <https://github.com/SheepCommander/KnowledgeBase/tree/main/faq/[faq]>)
+```
 - Replace `[faq]` in the link with what you used for `[your-faq]`
 - For the `example-pack.zip` use `base-datapack` as the base for `example-pack.zip` 
 (https://github.com/SheepCommander/KnowledgeBase/tree/main/remaking-tools)
