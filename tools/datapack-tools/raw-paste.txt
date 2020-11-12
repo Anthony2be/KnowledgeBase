@@ -1,0 +1,42 @@
+**DataPack Tools**
++ :open_file_folder: Game Files 
+> <https://mcasset.cloud/>
+
++ :tools: More Tools 
+> <http://minecraft.tools/en>
+
++ :carpentry_saw: Datapack Crafting Generator
+> <https://crafting.thedestruc7i0n.ca/>
+
++ :green_book: Datapack Advancement Generator 
+> <https://advancements.thedestruc7i0n.ca/>
+
++ :scroll: Loot Table, Predicate, Advancements & Dimensions 
+> <https://misode.github.io/dev/>
+
++ :white_check_mark: Loot Table Validator 
+> <https://sourceblock.net/beta/tools/data-packs/loot-table-evaluator>
+
++ :ballot_box_with_check: JSON Validator 
+> <https://jsonlint.com/>
+
++ :frame_photo: Image to JSON 
+> <https://cloudwolfyt.github.io/pages/scripts/image-json>
+
++ :keyboard: Chest GUI 
+> <https://stevertus.com/tools/gui>
+
++ :wolf: Block :: Score, Score Trees, NBT Crafter, & Typewriter 
+> <https://cloudwolfyt.github.io/>
+
++ :large_blue_diamond: Custom Kits, Custom Blocks, Floor Crafting
+> <https://www.bluecommander.net/>
+
++ :clipboard: Schematic To Function 
+> <https://github.com/Sivprod/SchematicToMcfunction>
+
++ :computer: CLI Tool | Code to mcfunction 
+> <https://www.npmjs.com/package/mc-build>
+
+(Copy and Paste Extract from Knowledge Base: <https://discord.gg/xpNJdH9>)
+(Raw Paste: <https://github.com/SheepCommander/KnowledgeBase/tree/main/datapack-tools/raw-paste.txt>)

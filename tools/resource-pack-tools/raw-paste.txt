@@ -1,0 +1,33 @@
+**Resource Pack Tools**
++ :open_file_folder: For getting vanilla Game Files
+> <https://mcasset.cloud/>
+
++ :package: For making models
+> <https://jannisx11.github.io/blockbench>
+
++ :paintbrush: Texturing
+> <https://www.piskelapp.com/>
+
++ :keyboard: Resource Pack Creator
+> <https://minecraft.novaskin.me/resourcepacks>
+
++ :neutral_face: Minecraft Heads 
+> <https://heads.marcdif.me/> and <https://minecraft-heads.com/player-heads>
+
++:bust_in_silhouette: Armorstand 
+> <https://haselkern.com/Minecraft-ArmorStand>
+
++:bust_in_silhouette: Armorstand Animator 
+> <https://mrgarretto.com/armorstand>
+
++:bust_in_silhouette: Model Animator 
+> <https://vberlier.github.io/animated-models>
+
++ :united_nations: Unicode Tutorial
+> <https://youtu.be/Eifs8BW1jNc>
+
++ :loud_sound: Custom Sounds
+> <https://youtu.be/rGPxEYZW08Q>
+
+(Copy and Paste Extract from Knowledge Base: <https://discord.gg/xpNJdH9>)
+(Raw Paste: <https://github.com/SheepCommander/KnowledgeBase/tree/main/resource-pack-tools/raw-paste.txt>)
