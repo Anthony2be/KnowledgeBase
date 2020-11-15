@@ -10,7 +10,7 @@ else:
 
 MC_VERSION = os.listdir(MC_ASSETS+"/indexes/")[-1]
 MC_VERSION = input("what version do you want to extract (ex 1.16 or 1.8)? ")
-print("Your latest installed version of minecraft is " + MC_VERSION + "\n")
+print("The version of minecraft that is getting extracted is " + MC_VERSION + "\n")
 MC_VERSION += ".json"
 
 
