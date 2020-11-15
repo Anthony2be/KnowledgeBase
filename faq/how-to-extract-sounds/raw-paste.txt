@@ -1,5 +1,5 @@
 How to Extract Minecraft Sounds (python required)
-go to the minecraft folder then assets then paste make a .py file there with
+make a .py file with
 ```
 import json, os, platform, shutil, sys
 print("Your OS is " + platform.system())
