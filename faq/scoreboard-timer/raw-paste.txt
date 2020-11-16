@@ -1,4 +1,4 @@
---= **Scoreboard Timer:** =-- (DP) (JE) (1.13+)
+--= **Scoreboard Timer:** =--
 + You literally just count up by 1, detect a score, and add to the next value
  
 Here's an example:
