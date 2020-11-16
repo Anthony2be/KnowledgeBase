@@ -1,6 +1,6 @@
 How to Extract Minecraft Sounds (python required)
 make a .py file with
-```
+```Python
 import json, os, platform, shutil, sys
 print("Your OS is " + platform.system())
 if platform.system() == "Windows":
