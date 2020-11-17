@@ -37,4 +37,4 @@ with open(MC_OBJECT_INDEX, "r") as read_file:
 ```
 inside of it then run it and if you did it correctly there should be a new folder on your desktop containing the files
 (Copy and Paste Extract from Knowledge Base <https://discord.gg/xpNJdH9>)
-(Raw Paste and example pack <https://github.com/SheepCommander/KnowledgeBase/tree/main/faq/how-to-extract-sounds>)
+(Raw Paste and Example Pack <https://github.com/SheepCommander/KnowledgeBase/tree/main/faq/how-to-extract-sounds>)
