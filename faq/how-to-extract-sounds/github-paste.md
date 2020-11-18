@@ -36,5 +36,6 @@ with open(MC_OBJECT_INDEX, "r") as read_file:
         shutil.copyfile(src_fpath, dest_fpath)
 ```
 Then save and run it. If you did it correctly there should be a new folder on your desktop containing the files
+
 (Copy and Paste Extract from Knowledge Base <https://discord.gg/xpNJdH9>)
 (Discord Raw Paste, Github paste, and Example Pack <https://github.com/SheepCommander/KnowledgeBase/tree/main/faq/how-to-extract-sounds>)
